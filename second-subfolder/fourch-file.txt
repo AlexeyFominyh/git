@@ -1,1 +1,2 @@
 ЕЩЕ один текстовыфй файл
+ this file was modidfied in the Feature branch
